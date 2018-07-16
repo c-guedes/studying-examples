@@ -1,0 +1,2 @@
+# sutying-examples
+Esse algoritmo foi parte de um trabalho em que fiz no segundo semestre do meu periodo acadêmico, utilizei alguns principios de estrutura e banco de dados, para que as pesquisas entre estados fossem agilizadas pelo algoritimo. Ainda deve conter erros, e algumas implementações pois até o momento ele só gera relatório até governador.
