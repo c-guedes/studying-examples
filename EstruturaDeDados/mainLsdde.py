@@ -1,6 +1,6 @@
-import LSDE
+import Lsdde
 
-l = LSDE.Lsde()
+l = Lsdde.Lsde()
 l.insereInicio("a")
 l.insereInicio("b")
 l.insereInicio("c")

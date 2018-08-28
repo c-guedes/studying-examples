@@ -1,6 +1,6 @@
-import LSS
+import ldse
 
-l = LSS.Ldse()
+l = Ldse.Ldse()
 
 
 
